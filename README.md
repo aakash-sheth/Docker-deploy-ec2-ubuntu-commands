@@ -1,9 +1,6 @@
 # Deploy-Docker-Container-on-AWS
 
 
-![image](https://user-images.githubusercontent.com/39345855/77860782-0c865f80-71df-11ea-822a-b544e4afaa47.png)
-
-
 ## Commands on Ubuntu Server  
 
 ```bash
