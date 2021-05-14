@@ -39,11 +39,6 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io
 
 
 ```bash
-sudo apt install docker.io
-```
-
-
-```bash
 sudo apt install docker-compose
 ```
 
