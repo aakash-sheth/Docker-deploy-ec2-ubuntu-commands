@@ -21,10 +21,12 @@ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 ```
 
 ```bash
-sudo apt-get install docker-ce docker-ce-cli containerd.io
+curl -fsSL https://get.docker.com -o get-docker.sh
 ```
 
-
+````bash
+sudo sh get-docker.sh
+````
 
 ```bash
 apt-cache madison docker-ce
